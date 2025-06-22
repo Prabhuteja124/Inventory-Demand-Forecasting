@@ -1,0 +1,341 @@
+date,forecast_demand,Spare_parts
+2019-01-07,3,3m oil
+2019-01-07,3,Air filter
+2019-01-07,2,Brake shoe
+2019-01-07,6,Chain lubrication
+2019-01-07,3,Consumables
+2019-01-07,4,Disc oil
+2019-01-07,1,Disc pad
+2019-01-07,7,Engine oil
+2019-01-07,4,General service
+2019-01-07,2,Oil filter
+2019-01-07,4,Polish
+2019-01-07,2,Wheel rubber
+2019-01-08,4,3m oil
+2019-01-08,4,Air filter
+2019-01-08,2,Brake shoe
+2019-01-08,7,Chain lubrication
+2019-01-08,4,Consumables
+2019-01-08,4,Disc oil
+2019-01-08,1,Disc pad
+2019-01-08,7,Engine oil
+2019-01-08,4,General service
+2019-01-08,2,Oil filter
+2019-01-08,4,Polish
+2019-01-08,2,Wheel rubber
+2019-01-09,4,3m oil
+2019-01-09,3,Air filter
+2019-01-09,2,Brake shoe
+2019-01-09,5,Chain lubrication
+2019-01-09,3,Consumables
+2019-01-09,4,Disc oil
+2019-01-09,1,Disc pad
+2019-01-09,6,Engine oil
+2019-01-09,3,General service
+2019-01-09,2,Oil filter
+2019-01-09,4,Polish
+2019-01-09,2,Wheel rubber
+2019-01-10,4,3m oil
+2019-01-10,4,Air filter
+2019-01-10,2,Brake shoe
+2019-01-10,5,Chain lubrication
+2019-01-10,3,Consumables
+2019-01-10,4,Disc oil
+2019-01-10,1,Disc pad
+2019-01-10,6,Engine oil
+2019-01-10,3,General service
+2019-01-10,2,Oil filter
+2019-01-10,4,Polish
+2019-01-10,2,Wheel rubber
+2019-01-11,3,3m oil
+2019-01-11,4,Air filter
+2019-01-11,1,Brake shoe
+2019-01-11,4,Chain lubrication
+2019-01-11,3,Consumables
+2019-01-11,4,Disc oil
+2019-01-11,1,Disc pad
+2019-01-11,5,Engine oil
+2019-01-11,3,General service
+2019-01-11,2,Oil filter
+2019-01-11,4,Polish
+2019-01-11,2,Wheel rubber
+2019-01-12,4,3m oil
+2019-01-12,4,Air filter
+2019-01-12,2,Brake shoe
+2019-01-12,6,Chain lubrication
+2019-01-12,4,Consumables
+2019-01-12,4,Disc oil
+2019-01-12,2,Disc pad
+2019-01-12,7,Engine oil
+2019-01-12,4,General service
+2019-01-12,3,Oil filter
+2019-01-12,5,Polish
+2019-01-12,2,Wheel rubber
+2019-01-13,3,3m oil
+2019-01-13,3,Air filter
+2019-01-13,1,Brake shoe
+2019-01-13,4,Chain lubrication
+2019-01-13,3,Consumables
+2019-01-13,3,Disc oil
+2019-01-13,2,Disc pad
+2019-01-13,4,Engine oil
+2019-01-13,2,General service
+2019-01-13,2,Oil filter
+2019-01-13,4,Polish
+2019-01-13,1,Wheel rubber
+2019-01-14,3,3m oil
+2019-01-14,3,Air filter
+2019-01-14,1,Brake shoe
+2019-01-14,5,Chain lubrication
+2019-01-14,3,Consumables
+2019-01-14,3,Disc oil
+2019-01-14,2,Disc pad
+2019-01-14,5,Engine oil
+2019-01-14,3,General service
+2019-01-14,2,Oil filter
+2019-01-14,4,Polish
+2019-01-14,2,Wheel rubber
+2019-01-15,3,3m oil
+2019-01-15,4,Air filter
+2019-01-15,2,Brake shoe
+2019-01-15,6,Chain lubrication
+2019-01-15,4,Consumables
+2019-01-15,3,Disc oil
+2019-01-15,2,Disc pad
+2019-01-15,5,Engine oil
+2019-01-15,3,General service
+2019-01-15,2,Oil filter
+2019-01-15,4,Polish
+2019-01-15,2,Wheel rubber
+2019-01-16,3,3m oil
+2019-01-16,3,Air filter
+2019-01-16,2,Brake shoe
+2019-01-16,5,Chain lubrication
+2019-01-16,3,Consumables
+2019-01-16,3,Disc oil
+2019-01-16,2,Disc pad
+2019-01-16,4,Engine oil
+2019-01-16,3,General service
+2019-01-16,2,Oil filter
+2019-01-16,4,Polish
+2019-01-16,2,Wheel rubber
+2019-01-17,3,3m oil
+2019-01-17,3,Air filter
+2019-01-17,2,Brake shoe
+2019-01-17,5,Chain lubrication
+2019-01-17,3,Consumables
+2019-01-17,3,Disc oil
+2019-01-17,2,Disc pad
+2019-01-17,5,Engine oil
+2019-01-17,3,General service
+2019-01-17,2,Oil filter
+2019-01-17,3,Polish
+2019-01-17,2,Wheel rubber
+2019-01-18,3,3m oil
+2019-01-18,3,Air filter
+2019-01-18,2,Brake shoe
+2019-01-18,4,Chain lubrication
+2019-01-18,3,Consumables
+2019-01-18,4,Disc oil
+2019-01-18,2,Disc pad
+2019-01-18,4,Engine oil
+2019-01-18,3,General service
+2019-01-18,2,Oil filter
+2019-01-18,4,Polish
+2019-01-18,1,Wheel rubber
+2019-01-19,3,3m oil
+2019-01-19,5,Air filter
+2019-01-19,2,Brake shoe
+2019-01-19,6,Chain lubrication
+2019-01-19,3,Consumables
+2019-01-19,4,Disc oil
+2019-01-19,2,Disc pad
+2019-01-19,6,Engine oil
+2019-01-19,4,General service
+2019-01-19,2,Oil filter
+2019-01-19,4,Polish
+2019-01-20,3,3m oil
+2019-01-20,3,Air filter
+2019-01-20,1,Brake shoe
+2019-01-20,4,Chain lubrication
+2019-01-20,3,Consumables
+2019-01-20,4,Disc oil
+2019-01-20,2,Disc pad
+2019-01-20,4,Engine oil
+2019-01-20,3,General service
+2019-01-20,2,Oil filter
+2019-01-20,3,Polish
+2019-01-21,3,3m oil
+2019-01-21,3,Air filter
+2019-01-21,1,Brake shoe
+2019-01-21,5,Chain lubrication
+2019-01-21,3,Consumables
+2019-01-21,4,Disc oil
+2019-01-21,2,Disc pad
+2019-01-21,6,Engine oil
+2019-01-21,4,General service
+2019-01-21,2,Oil filter
+2019-01-21,3,Polish
+2019-01-22,3,3m oil
+2019-01-22,4,Air filter
+2019-01-22,2,Brake shoe
+2019-01-22,6,Chain lubrication
+2019-01-22,4,Consumables
+2019-01-22,4,Disc oil
+2019-01-22,2,Disc pad
+2019-01-22,7,Engine oil
+2019-01-22,4,General service
+2019-01-22,2,Oil filter
+2019-01-22,4,Polish
+2019-01-23,3,3m oil
+2019-01-23,4,Air filter
+2019-01-23,1,Brake shoe
+2019-01-23,5,Chain lubrication
+2019-01-23,4,Consumables
+2019-01-23,4,Disc oil
+2019-01-23,2,Disc pad
+2019-01-23,6,Engine oil
+2019-01-23,4,General service
+2019-01-23,2,Oil filter
+2019-01-23,4,Polish
+2019-01-24,4,3m oil
+2019-01-24,4,Air filter
+2019-01-24,1,Brake shoe
+2019-01-24,5,Chain lubrication
+2019-01-24,4,Consumables
+2019-01-24,4,Disc oil
+2019-01-24,2,Disc pad
+2019-01-24,6,Engine oil
+2019-01-24,3,General service
+2019-01-24,2,Oil filter
+2019-01-24,4,Polish
+2019-01-25,3,3m oil
+2019-01-25,4,Air filter
+2019-01-25,1,Brake shoe
+2019-01-25,5,Chain lubrication
+2019-01-25,3,Consumables
+2019-01-25,4,Disc oil
+2019-01-25,2,Disc pad
+2019-01-25,5,Engine oil
+2019-01-25,3,General service
+2019-01-25,2,Oil filter
+2019-01-25,3,Polish
+2019-01-26,4,3m oil
+2019-01-26,6,Air filter
+2019-01-26,2,Brake shoe
+2019-01-26,6,Chain lubrication
+2019-01-26,3,Consumables
+2019-01-26,5,Disc oil
+2019-01-26,2,Disc pad
+2019-01-26,7,Engine oil
+2019-01-26,5,General service
+2019-01-26,2,Oil filter
+2019-01-26,4,Polish
+2019-01-27,3,3m oil
+2019-01-27,4,Air filter
+2019-01-27,2,Brake shoe
+2019-01-27,4,Chain lubrication
+2019-01-27,2,Consumables
+2019-01-27,5,Disc oil
+2019-01-27,2,Disc pad
+2019-01-27,4,Engine oil
+2019-01-27,3,General service
+2019-01-27,2,Oil filter
+2019-01-27,3,Polish
+2019-01-28,3,3m oil
+2019-01-28,4,Air filter
+2019-01-28,2,Brake shoe
+2019-01-28,5,Chain lubrication
+2019-01-28,3,Consumables
+2019-01-28,4,Disc oil
+2019-01-28,2,Disc pad
+2019-01-28,5,Engine oil
+2019-01-28,4,General service
+2019-01-28,2,Oil filter
+2019-01-28,3,Polish
+2019-01-29,3,3m oil
+2019-01-29,5,Air filter
+2019-01-29,2,Brake shoe
+2019-01-29,6,Chain lubrication
+2019-01-29,4,Consumables
+2019-01-29,4,Disc oil
+2019-01-29,2,Disc pad
+2019-01-29,6,Engine oil
+2019-01-29,4,General service
+2019-01-29,2,Oil filter
+2019-01-29,4,Polish
+2019-01-30,4,3m oil
+2019-01-30,4,Air filter
+2019-01-30,2,Brake shoe
+2019-01-30,5,Chain lubrication
+2019-01-30,4,Consumables
+2019-01-30,4,Disc oil
+2019-01-30,2,Disc pad
+2019-01-30,6,Engine oil
+2019-01-30,4,General service
+2019-01-30,2,Oil filter
+2019-01-30,4,Polish
+2019-01-31,4,3m oil
+2019-01-31,5,Air filter
+2019-01-31,3,Brake shoe
+2019-01-31,6,Chain lubrication
+2019-01-31,4,Consumables
+2019-01-31,5,Disc oil
+2019-01-31,2,Disc pad
+2019-01-31,7,Engine oil
+2019-01-31,4,General service
+2019-01-31,2,Oil filter
+2019-01-31,4,Polish
+2019-02-01,4,3m oil
+2019-02-01,6,Air filter
+2019-02-01,2,Brake shoe
+2019-02-01,6,Chain lubrication
+2019-02-01,4,Consumables
+2019-02-01,5,Disc oil
+2019-02-01,2,Disc pad
+2019-02-01,7,Engine oil
+2019-02-01,5,General service
+2019-02-01,2,Oil filter
+2019-02-01,4,Polish
+2019-02-02,4,3m oil
+2019-02-02,8,Air filter
+2019-02-02,3,Brake shoe
+2019-02-02,9,Chain lubrication
+2019-02-02,4,Consumables
+2019-02-02,5,Disc oil
+2019-02-02,2,Disc pad
+2019-02-02,11,Engine oil
+2019-02-02,7,General service
+2019-02-02,2,Oil filter
+2019-02-02,4,Polish
+2019-02-03,3,3m oil
+2019-02-03,5,Air filter
+2019-02-03,2,Brake shoe
+2019-02-03,5,Chain lubrication
+2019-02-03,3,Consumables
+2019-02-03,4,Disc oil
+2019-02-03,2,Disc pad
+2019-02-03,6,Engine oil
+2019-02-03,4,General service
+2019-02-03,2,Oil filter
+2019-02-03,3,Polish
+2019-02-04,4,3m oil
+2019-02-04,6,Air filter
+2019-02-04,2,Brake shoe
+2019-02-04,7,Chain lubrication
+2019-02-04,4,Consumables
+2019-02-04,4,Disc oil
+2019-02-04,1,Disc pad
+2019-02-04,8,Engine oil
+2019-02-04,5,General service
+2019-02-04,2,Oil filter
+2019-02-04,4,Polish
+2019-02-05,4,3m oil
+2019-02-05,6,Air filter
+2019-02-05,7,Chain lubrication
+2019-02-05,4,Consumables
+2019-02-05,5,Disc oil
+2019-02-05,8,Engine oil
+2019-02-05,5,General service
+2019-02-05,2,Oil filter
+2019-02-05,4,Polish
